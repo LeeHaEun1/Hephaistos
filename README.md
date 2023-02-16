@@ -1,5 +1,7 @@
 # MidnightCamp
 
+[View Details in Notion](https://thread-sherbet-57e.notion.site/Tool-Hephaistos-7126467d762040c398fd71d1b700196c)
+
 ## <b>Overview</b>
 - <b>Program name</b>
     - Hephaistos (The god of blacksmiths in Greek and Roman mythology)
