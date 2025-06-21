@@ -1,6 +1,6 @@
 # Hephaistos
 
-[Explore Details in Notion (ENG)](https://www.notion.so/3D-Prototype-Modeling-Tool-1eee239d363a80ed9391f4690e1d89ff?pvs=4)
+[Explore Details in Notion (ENG)](https://www.notion.so/3D-Prototype-Modeling-Tool-203e239d363a8122859dfc9cc46e6162?source=copy_link)
 
 [Explore Details in Notion (KOR)](https://thread-sherbet-57e.notion.site/Tool-Hephaistos-7126467d762040c398fd71d1b700196c)
 
